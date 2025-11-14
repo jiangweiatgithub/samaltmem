@@ -37,7 +37,7 @@ sudo dnf install git
 git config --global user.name "Your Name"
 
 # Set your email (use GitHub email)
-git config --global user.email "your.email@example.com"
+git config --global user.email "polytrans@gmail.com"
 
 # Verify
 git config --list
@@ -219,16 +219,16 @@ git push -u origin main
 Edit these placeholders:
 ```markdown
 # In README.md, replace:
-- `yourusername` → your actual GitHub username
+- `jiangweiatgithub` → your actual GitHub username
 - `Your Name` → your actual name
-- `your.email@example.com` → your actual email
+- `polytrans@gmail.com` → your actual email
 ```
 
 ### Update LICENSE
 
 ```markdown
 # In LICENSE, replace:
-- `[Your Name]` → your actual name
+- `Wei Jiang` → your actual name
 ```
 
 ### Create a Nice Repository Description

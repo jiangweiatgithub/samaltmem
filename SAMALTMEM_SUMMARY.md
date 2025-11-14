@@ -112,7 +112,7 @@
 ### With Branded Name
 ```bash
 # Clone
-git clone https://github.com/yourusername/samaltmem.git
+git clone https://github.com/jiangweiatgithub/samaltmem.git
 cd samaltmem
 
 # Install
@@ -153,10 +153,10 @@ python xliff_to_tmx_hybrid.py /project/ -r --merge -v
 
 ### URL Structure
 ```
-Repository: https://github.com/yourusername/samaltmem
-Clone:      git clone https://github.com/yourusername/samaltmem.git
-Issues:     https://github.com/yourusername/samaltmem/issues
-Releases:   https://github.com/yourusername/samaltmem/releases
+Repository: https://github.com/jiangweiatgithub/samaltmem
+Clone:      git clone https://github.com/jiangweiatgithub/samaltmem.git
+Issues:     https://github.com/jiangweiatgithub/samaltmem/issues
+Releases:   https://github.com/jiangweiatgithub/samaltmem/releases
 ```
 
 ---
@@ -166,12 +166,12 @@ Releases:   https://github.com/yourusername/samaltmem/releases
 Before publishing, update these:
 
 ### README.md
-- Line 7: `yourusername` → your GitHub username
+- Line 7: `jiangweiatgithub` → your GitHub username
 - Author section: Add your name and email
 - All URLs: Update with your username
 
 ### LICENSE
-- Line 3: `[Your Name]` → your actual name
+- Line 3: `Wei Jiang` → your actual name
 
 ### BRANDING.md
 - Review and customize as desired

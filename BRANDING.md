@@ -157,11 +157,11 @@ SamAltmem v4.0 (Hybrid)
 
 Suggested badges for README:
 ```markdown
-[![SamAltmem](https://img.shields.io/badge/SamAltmem-v4.0-blue)](https://github.com/yourusername/samaltmem)
+[![SamAltmem](https://img.shields.io/badge/SamAltmem-v4.0-blue)](https://github.com/jiangweiatgithub/samaltmem)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/samaltmem/total)](https://github.com/yourusername/samaltmem/releases)
-[![Stars](https://img.shields.io/github/stars/yourusername/samaltmem)](https://github.com/yourusername/samaltmem/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/jiangweiatgithub/samaltmem/total)](https://github.com/jiangweiatgithub/samaltmem/releases)
+[![Stars](https://img.shields.io/github/stars/jiangweiatgithub/samaltmem)](https://github.com/jiangweiatgithub/samaltmem/stargazers)
 ```
 
 ## File Headers
@@ -186,13 +186,13 @@ Part of SamAltmem - Some Alt Translation Memory Creation
 ### In Code
 ```python
 # SamAltmem - Some Alt Translation Memory Creation
-# Copyright (c) 2025 [Your Name]
+# Copyright (c) 2025 Wei Jiang
 # Licensed under MIT License
 ```
 
 ### In Documentation
 ```markdown
-**SamAltmem** is created and maintained by [Your Name]
+**SamAltmem** is created and maintained by Wei Jiang
 ```
 
 ## Communication Style
@@ -306,7 +306,7 @@ Consider registering "SamAltmem" if the project grows significantly.
 | **Version** | 4.0 (Hybrid) |
 | **License** | MIT |
 | **Language** | Python 3.6+ |
-| **Repository** | github.com/yourusername/samaltmem |
+| **Repository** | github.com/jiangweiatgithub/samaltmem |
 | **Script** | samaltmem.py |
 | **Category** | Translation Tools, CAT Tools, Localization |
 

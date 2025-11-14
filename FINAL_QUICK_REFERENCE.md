@@ -70,11 +70,11 @@ python xliff_to_tmx_hybrid.py /project/ -r --merge -v
 ### Edit These Files:
 
 **README.md** - Find/Replace:
-- `yourusername` → your GitHub username (multiple places)
+- `jiangweiatgithub` → your GitHub username (multiple places)
 - Author section → add your name and email
 
 **LICENSE**:
-- `[Your Name]` → your actual name
+- `Wei Jiang` → your actual name
 
 **That's all!** Everything else is ready.
 

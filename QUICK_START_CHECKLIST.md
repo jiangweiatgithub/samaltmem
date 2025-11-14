@@ -11,9 +11,9 @@
 
 ### Edit README.md
 Find and replace ALL instances of:
-- `yourusername` → your actual GitHub username
+- `jiangweiatgithub` → your actual GitHub username
 - `Your Name` → your actual name  
-- `your.email@example.com` → your actual email
+- `polytrans@gmail.com` → your actual email
 
 **Quick find/replace:**
 - Windows: Ctrl+H
@@ -22,7 +22,7 @@ Find and replace ALL instances of:
 
 ### Edit LICENSE
 Replace:
-- `[Your Name]` → your actual name
+- `Wei Jiang` → your actual name
 
 ---
 
@@ -33,7 +33,7 @@ Open Terminal/Command Prompt:
 ```bash
 # Configure Git (only needed once)
 git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.email "polytrans@gmail.com"
 
 # Navigate to your project folder
 cd path/to/samaltmem

@@ -93,12 +93,12 @@ All files are in the `/mnt/user-data/outputs/github/` directory.
 **Edit these files:**
 
 **README.md:**
-- Line 4: Replace `yourusername` with your GitHub username (multiple places)
+- Line 4: Replace `jiangweiatgithub` with your GitHub username (multiple places)
 - Author section: Add your name and email
 - All example URLs: Update username
 
 **LICENSE:**
-- Line 3: Replace `[Your Name]` with your actual name
+- Line 3: Replace `Wei Jiang` with your actual name
 
 ### 3. Follow the Guide
 Open `GITHUB_PUBLISHING_GUIDE.md` and follow step-by-step:
@@ -147,7 +147,7 @@ cd samaltmem
 ```
 
 ### Step 2: Customize
-- Edit README.md (replace yourusername)
+- Edit README.md (replace jiangweiatgithub)
 - Edit LICENSE (add your name)
 
 ### Step 3: Initialize Git
