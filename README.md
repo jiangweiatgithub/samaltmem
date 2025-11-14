@@ -291,7 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@jiangweiatgithub](https://github.com/jiangweiatgithub)
-- Email: your.email@example.com
+- Email: polytrans@gmail.com
 
 ## 🙏 Acknowledgments
 
