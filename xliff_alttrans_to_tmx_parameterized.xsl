@@ -11,10 +11,10 @@
     <xsl:param name="tmx-version" select="'1.0'"/>
     
     <!-- PARAMETER: TU attributes mode - 'attributes' or 'prop' (default: attributes) -->
-    <xsl:param name="tu-attributes-mode" select="'attributes'"/>
+    <xsl:param name="tu-attributes-mode" select="'prop'"/>
     
     <!-- PARAMETER: TUV attributes mode - 'attributes' or 'prop' (default: attributes) -->
-    <xsl:param name="tuv-attributes-mode" select="'attributes'"/>
+    <xsl:param name="tuv-attributes-mode" select="'prop'"/>
     
     <!-- Ultra-minimal: no indentation, newlines only between structural elements -->
     <xsl:output method="xml" indent="no" encoding="UTF-8"/>
